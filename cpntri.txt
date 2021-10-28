@@ -16,3 +16,4 @@ som bahadur
 man bahadur
 manila
 dil maya
+devid
