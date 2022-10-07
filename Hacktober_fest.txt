@@ -1,2 +1,4 @@
 Hacktoberfest Participants
- - User 1 
+ - User 1 : Sabina Mahato
+ - User 2: : Rojina Lamichhane 
+ 
